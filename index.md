@@ -1,4 +1,3 @@
-thema: Hacker
 # Julia チュートリアル
 
 juliaの基本的な書き方から図の出力まで行います。
